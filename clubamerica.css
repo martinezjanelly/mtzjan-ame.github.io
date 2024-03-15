@@ -1,0 +1,15 @@
+h1{ background-color: gold;
+    font-size:70px;
+    font-weight:bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;}
+    body{margin: 0px;}
+    Main{margin: 30px;}
+
+    h2{ background-color: rgb(16, 31, 240);
+    font-size: 70px;
+font-weight: bold;
+font-family: Georgia, 'Times New Roman', Times, serif;}
+body{margin: 0px;}
+main{margin: 30px;}
+p{background-color: aqua;
+    font-family: cursive;}
